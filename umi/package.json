@@ -1,0 +1,27 @@
+{
+  "name": "zhufengumi20221127",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "max dev",
+    "build": "max build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ant-design/icons": "^4.8.0",
+    "@ant-design/pro-components": "^2.3.35",
+    "@umijs/max": "^4.0.33",
+    "ahooks": "^3.7.2",
+    "antd": "4",
+    "jsonwebtoken": "^8.5.1"
+  },
+  "devDependencies": {
+    "typescript": "^4",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "tailwindcss": "^3"
+  }
+}
